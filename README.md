@@ -1,3 +1,3 @@
 # rsschool-profile
 Karneev Denis
-https://www.codecademy.com/users/tvj888/achievements
+HTML CSS Basics: https://www.codecademy.com/users/tvj888/achievements
